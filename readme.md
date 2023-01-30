@@ -1,3 +1,4 @@
+<h1>Elementor Customize by Sergey Samokvalov (Redirex)</h1>
 <p>Recently i'm faced with a challenge to resolve some w3 validator and optimiziation (like PageSpeedInsights) issues. So i'm decided that it's will be well if i create this repo for share some solutions about not trivial methods of resolve elementor issues.</p>
 <p>My list of solutions here willn't cover all stuff like simply edditing html-elements from visual interface or accessable methods of edditing your templates for regular user of layout designer.</p>
 <p>Here you'll not found solution like: dont contain &lsaquo;a&rsaquo; into &lsaquo;a&rsaquo; tag ot what difference betwen HTML block and inline elements.</p>
