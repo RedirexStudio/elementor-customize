@@ -29,6 +29,6 @@ Unfortunatly Elementor use "elementor widget container" that include all styles 
     $this->print_widget_css(); // add same styles to footer
 	});
 </code>
-as you can see - we replace all widget css code to footer that resolve our issue.
+as you can see - we move all widget css code to footer by <code>wp_footer</code> Wordpress hook that resolve our issue.
 <li>Done :-).</li>
 </ol>
